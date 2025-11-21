@@ -13,4 +13,4 @@ touch research/trails.ipynb
 touch requirements.txt
 
 
-echo "Directory and files are creates succesfully!."
+echo "Directory and files are creates succesfully!."s
